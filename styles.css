@@ -17,8 +17,8 @@ p {
   color: #616161;
   padding-left:18px;
   padding-right:18px;
-  padding-top:30px;
-  padding-bottom:30px;
+  padding-top:10px;
+  padding-bottom:10px;
 }
 
 .nav ul {
@@ -70,7 +70,16 @@ h2 {
   padding-bottom:30px;
 }
 
+h3 {
+  font-family: 'Nobile', sans-serif;
+  color: #616161;
+  padding-left:18px;
+  padding-right:18px;
+  padding-top:30px;
+  padding-bottom:30px;
+}
 .row {
+
   padding-left:18px;
   padding-right:18px;
   padding-top:10px;
